@@ -1,2 +1,2 @@
-# react-native-project
-React native project - using Redux and typescript.
+# react-native-exam
+This is a school project
